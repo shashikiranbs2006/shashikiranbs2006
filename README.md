@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Shashikiran B S 👋</h1>
 
 <p align="center">
-  CS undergrad @ BMSIT · AI/ML enthusiast · Building things that matter
+  AIML undergrad @ BMSIT · AI/ML enthusiast · Building things that matter
 </p>
 
 <p align="center">
