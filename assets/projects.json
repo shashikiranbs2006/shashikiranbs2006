@@ -1,0 +1,21 @@
+{
+  "_comment": "Featured repos, in README order. Star/fork/language come live from the API on every run; the description here overrides the repo's GitHub description.",
+  "projects": [
+    {
+      "repo": "relay",
+      "description": "A VS Code extension for orchestrating multiple LLMs in-editor, with context compression to keep long coding sessions within budget."
+    },
+    {
+      "repo": "prompt-compiler",
+      "description": "A Manifest V3 Chrome extension that rewrites a raw prompt with an LLM and injects the result directly into Claude, ChatGPT, or Gemini's input box."
+    },
+    {
+      "repo": "yoru_chatbot",
+      "description": "A RAG-based chatbot for querying college course notes, built to cut down on hallucinated answers via source grounding."
+    },
+    {
+      "repo": "TermSheetsMVP_my_version",
+      "description": "A personal rebuild of a document-parsing pipeline that turns structured insurance PDFs into validated, machine-readable JSON."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Self-rated 0-100, edit these to match how YOU actually feel about each. These are drafted conservatively rather than inflated.",
+  "axes": [
+    { "label": "Python",        "value": 68 },
+    { "label": "JS / TS",       "value": 55 },
+    { "label": "LLM & Agents",  "value": 62 },
+    { "label": "AWS / Cloud",   "value": 50 },
+    { "label": "React / Web",   "value": 45 },
+    { "label": "DSA",           "value": 25 }
+  ]
+}
