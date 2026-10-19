@@ -23,7 +23,7 @@
 <a href="mailto:shashikiranbs238@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
-<a href="https://my-portfolio-black-seven-97.vercel.app/">
+<a href="https://www.shashikiran.dev/">
   <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
 </a>
 
