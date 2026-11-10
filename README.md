@@ -45,7 +45,7 @@ Hi, I'm **Shashikiran** — a 3rd-year CSE (AI/ML) student at BMS Institute of T
 * Building document-processing systems with **AWS Bedrock** and the **Strands Agents SDK**
 * Treasurer & Lead Organiser at **Coding Club BMSIT** — organised **NIRMAAN 2026**, a national hackathon
 * Currently working through **NeetCode 150** and getting deeper into DSA
-* Portfolio: **[my-portfolio-black-seven-97.vercel.app](https://my-portfolio-black-seven-97.vercel.app/)**
+* Portfolio: **https://www.shashikiran.dev/**
 
 <br>
 
